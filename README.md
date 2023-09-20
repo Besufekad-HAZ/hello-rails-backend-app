@@ -28,7 +28,7 @@ Greeting App: A web app that generates random greetings, showcasing the integrat
 
 ## 📂 Frontend Repository
 
-The frontend repository for the Greeting App can be found at [hello-react-front-end](https://github.com/indiecodermm/hello-react-front-end). It contains the code for the user interface and interacts with the backend server.
+The frontend repository for the Greeting App can be found at [hello-react-front-end](https://github.com/Besufekad-HAZ/hello-react-front-end-app). It contains the code for the user interface and interacts with the backend server.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -110,6 +110,13 @@ rails server
 ## 👨‍🚀 Author  <a name="author"></a>
 
 I am always looking for ways to improve my project. If you have any suggestions or ideas, I would love to hear from you.
+
+## <a> 👤 Besufekad Alemu </a>
+
+- GitHub: [@Besufekad-HAZ](https://github.com/Besufekad-HAZ)
+- Twitter: [@BesufekadAlemu7](https://twitter.com/BesufekadAlemu7)
+- LinkedIn: [@besura](www.linkedin.com/in/besura)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
