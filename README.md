@@ -1,7 +1,8 @@
 <a name="readme-top"></a>
 <h1>Table of Contents</h1>
 
-- [👋 Rails-React-App](#-Rails-React-app)
+- [👋 Greeting-App](#-Greeting-App)
+  - [📂 Frontend Repository](#-frontend-repository)
   - [🧰 Tech Stack  ](#-tech-stack--)
   - [✨ Key Features  ](#-key-features--)
   - [📘 Getting Started  ](#-getting-started--)
@@ -19,16 +20,20 @@
   - [📜 License ](#-license-)
 </details>
 
-# 👋 Rails-React App
+# 👋 Greeting App (Back-end)
 
-The Rails-React App is a straightforward web application designed to showcase the seamless integration between a Ruby on Rails back-end and a React front-end. It generates random greetings and serves as an educational resource for gaining insights into the connection between these two powerful technologies.
+Greeting App: A web app that generates random greetings, showcasing the integration of Ruby on Rails and React. Learn how to combine the scalability of Rails with the efficiency of React and build dynamic web applications
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 📂 Frontend Repository
+
+The frontend repository for the Greeting App can be found at [hello-react-front-end](https://github.com/indiecodermm/hello-react-front-end). It contains the code for the user interface and interacts with the backend server.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🧰 Tech Stack  <a name="tech-stack"></a>
 
-- Front end: React
-- State management: Redux Toolkit
 - Back end: Ruby on Rails
 - Database: PostgreSQL
 
@@ -37,8 +42,13 @@ The Rails-React App is a straightforward web application designed to showcase th
 ## ✨ Key Features  <a name="key-features"></a>
 
 - Random Greetings: The app generates a random greeting each time it is loaded
-- React and Redux: The front end is built using React, and API calls are made using Redux
 - API: The back end is built using Ruby on Rails, creating an API endpoint to generate a random greeting message.
+
+```json
+{
+  "greeting": "Hello, Friend!"
+}
+```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -60,7 +70,7 @@ Clone this repository to your desired foler.
 
 ```sh
 cd my-project
-git clone git@github.com:Besufekad-HAZ/hello-rails-react.git
+git clone git@github.com:Besufekad-HAZ/hello-rails-backend-app.git
 ```
 
 ### 📥 Installation
@@ -71,11 +81,6 @@ Install the required gems with:
 bundle install
 ```
 
-Install node dependencies with:
-
-```sh
-npm install
-```
 
 ### 💾 Database
 
@@ -90,20 +95,6 @@ To load the sample data, run:
 
 ```sh
 rails db:seed
-```
-
-### 📦 Build
-
-Build the front-end assets with:
-
-```sh
-npm run build
-```
-
-You can also set it to *watch mode* which automatically build after every changes. To start the *watch mode*, use:
-
-```sh
-npm run watch
 ```
 
 ### 💻 Usage
@@ -142,7 +133,7 @@ If you like this project, please consider giving it a ⭐.
 
 ## 🙏 Acknowledgements
 
-I would like to thank all code reviewers for making this project better.
+I would like to thank the Microverse team for proving us this learning platform by building projects.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
