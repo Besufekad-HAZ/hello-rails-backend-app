@@ -133,7 +133,7 @@ If you like this project, please consider giving it a ⭐.
 
 ## 🙏 Acknowledgements
 
-I would like to thank the Microverse team for proving us this learning platform by building projects.
+I would like to thank the Microverse team for providing us this learning platform by building projects.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
